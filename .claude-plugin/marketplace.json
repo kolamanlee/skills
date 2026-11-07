@@ -10,7 +10,7 @@
     {
       "name": "kproject-memory",
       "description": "Team-shared, git-tracked project memory: bootstrap + write guidance. Distinct from Claude Code's per-user auto-memory.",
-      "source": ".",
+      "source": "./plugins/kproject-memory",
       "category": "productivity"
     }
   ]
