@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "kolaman-plugins",
+  "description": "Personal plugin marketplace — kolaman's reusable Claude Code plugins",
+  "owner": {
+    "name": "kolaman",
+    "email": "kolaman@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "kproject-memory",
+      "description": "Team-shared, git-tracked project memory: bootstrap + write guidance. Distinct from Claude Code's per-user auto-memory.",
+      "source": ".",
+      "category": "productivity"
+    }
+  ]
+}

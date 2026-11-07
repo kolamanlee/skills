@@ -1,0 +1,16 @@
+{
+  "name": "kproject-memory",
+  "description": "Team-shared, git-tracked project memory: bootstrap + write guidance. Distinct from Claude Code's per-user auto-memory.",
+  "version": "0.1.0",
+  "author": {
+    "name": "kolaman",
+    "email": "kolaman@users.noreply.github.com"
+  },
+  "keywords": [
+    "memory",
+    "knowledge-base",
+    "team-shared",
+    "git-tracked",
+    "project-memory"
+  ]
+}
