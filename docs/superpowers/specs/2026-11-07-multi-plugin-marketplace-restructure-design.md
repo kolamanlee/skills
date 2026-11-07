@@ -70,7 +70,7 @@ kolaman-claude-plugins/                 # 仓库根 = 纯 marketplace
 2. 人工（需用户配合，新 Claude Code 会话）：
    `/plugin marketplace add ~/projects/utils/kolaman-claude-plugins` →
    `/plugin install kproject-memory@kolaman-plugins` → 确认技能可列出。
-3. `git log` 两笔提交：改造前快照、改造后结构。
+3. `git log`：首笔为改造前快照（`9a295a1`），其后为重构提交（按任务细粒度提交）。
 
 ## 范围外
 
