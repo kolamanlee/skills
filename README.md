@@ -10,19 +10,19 @@ Personal plugin **marketplace** for kolaman's reusable Claude Code plugins. The 
 
 ## Installation
 
-**From GitHub** (after this repo is pushed):
+**From GitHub**:
 
 ```bash
-/plugin marketplace add kolaman/kolaman-claude-plugins
+/plugin marketplace add kolamanlee/skills
 /plugin install <plugin-name>@kolaman-plugins
 ```
 
 **From local checkout** (development / testing):
 
 ```bash
-git clone <this-repo-url> ~/kolaman-claude-plugins
+git clone https://github.com/kolamanlee/skills.git ~/skills
 # In any Claude Code session:
-/plugin marketplace add ~/kolaman-claude-plugins
+/plugin marketplace add ~/skills
 /plugin install <plugin-name>@kolaman-plugins
 ```
 

@@ -19,19 +19,19 @@ Two parts: install the **plugin** (skill), then optionally append the **global C
 
 ### Part 1: Install the plugin
 
-**From GitHub** (after this repo is pushed):
+**From GitHub**:
 
 ```bash
-/plugin marketplace add kolaman/kolaman-claude-plugins
+/plugin marketplace add kolamanlee/skills
 /plugin install kproject-memory@kolaman-plugins
 ```
 
 **From local checkout** (for testing before pushing):
 
 ```bash
-git clone <this-repo-url> ~/kolaman-claude-plugins
+git clone https://github.com/kolamanlee/skills.git ~/skills
 # In any Claude Code session:
-/plugin marketplace add ~/kolaman-claude-plugins
+/plugin marketplace add ~/skills
 /plugin install kproject-memory@kolaman-plugins
 ```
 

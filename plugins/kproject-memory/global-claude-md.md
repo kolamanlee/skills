@@ -40,7 +40,7 @@ Each project keeps a **shared** memory store at `<repo-root>/memory/` (checked i
 
 ## Maintenance Notes
 
-**This section was generated from the `kproject-memory` plugin** (see https://github.com/kolaman/kolaman-claude-plugins). If you update the plugin, re-copy this section to keep your global CLAUDE.md in sync.
+**This section was generated from the `kproject-memory` plugin** (see https://github.com/kolamanlee/skills). If you update the plugin, re-copy this section to keep your global CLAUDE.md in sync.
 
 **Differences from auto-memory:**
 
